@@ -35,7 +35,7 @@ License
 
 Contributors
 ----
- -  Nial McCarrol
+- Nial McCarrol
 - Armand Ruiz ([armand_ruiz](https://twitter.com/armand_ruiz))
 
 
