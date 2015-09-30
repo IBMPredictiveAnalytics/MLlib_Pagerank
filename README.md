@@ -36,7 +36,7 @@ License
 Contributors
 ----
  -  Nial McCarrol
-  - Armand Ruiz ([armand_ruiz](https://twitter.com/armand_ruiz))
+- Armand Ruiz ([armand_ruiz](https://twitter.com/armand_ruiz))
 
 
 [1]: http://www.apache.org/licenses/LICENSE-2.0.html
@@ -46,10 +46,7 @@ Contributors
 [5]:https://github.com/IBMPredictiveAnalytics/Get-Coordinates-Esri/raw/master/Documentation/Geocoding-SPSSModelerExtension.pdf
 [6]:https://github.com/IBMPredictiveAnalytics/Get-Coordinates-Esri/tree/master/Example
 [10]:https://developer.ibm.com/predictiveanalytics/2015/03/11/tweets-during-esri-dev-summit-and-bnp-paribas-open/
-[11]:https://cran.r-project.org/web/packages/plyr/
-[12]:https://developer.ibm.com/predictiveanalytics/2015/03/11/crime-prediction-using-ibm-spss-modeler-and-arcgis/
-[13]:https://cran.r-project.org/web/packages/RJSONIO/index.html
-[20]:https://www.youtube.com/watch?v=5VpnKVsoxjI
+
 [25]:https://spark.apache.org/docs/1.1.0/graphx-programming-guide.html
 [26]:https://spark.apache.org/docs/1.1.0/graphx-programming-guide.html#pagerank
 
