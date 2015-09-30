@@ -1,6 +1,6 @@
 {
  "type": [ "Extension" ],
-"provider": [ "Business Partner" ],
+"provider": [ "IBM" ],
 "software": [ "SPSS Modeler" ],
 "language": [ " R" ],
 "category": [ "Utility" ],
