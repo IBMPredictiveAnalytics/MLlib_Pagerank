@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MLlib-Collaborative Filtering
 This extension is based on the  Collaborative Filtering algorithm part of MLlib. MLlib is Spark's machine learning (ML) library. Its goal is to make practical machine learning scalable and easy. 
 In this repository it is included the IBM SPSS Modeler Extension and a sample stream with the training and testing dataset. 
@@ -50,3 +51,7 @@ Contributors
 [25]:http://spark.apache.org/docs/latest/mllib-guide.html
 [26]:http://spark.apache.org/docs/latest/mllib-collaborative-filtering.html
 
+=======
+# MLlib-Pagerank
+Estimating the relative importance of individuals within a social network using Spark MLlib
+>>>>>>> origin/master
