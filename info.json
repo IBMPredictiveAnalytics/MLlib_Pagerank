@@ -3,6 +3,6 @@
 "provider": [ "IBM" ],
 "software": [ "SPSS Modeler" ],
 "language": [ " R" ],
-"category": [ "Utility" ],
+"category": [ "Analysis" ],
 "promotion": [ "No" ] 
 }
