@@ -1,4 +1,4 @@
-# MLlib-PageRank
+# MLlib_PageRank
 The scenario here is to perform analysis on the social graph using data on email exchanges.  We use a small extract from the enron corpus (see enron.csv) listing the source and destination of e-mails.  We use the pagerank algorithm to rank enron employees where an email from person A to person B is seen as A in some way endorsing B. Estimating the relative importance of individuals within a social network is a key step for a number of applications including fraud investigation and
 marketing.
 
